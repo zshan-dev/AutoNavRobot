@@ -4,6 +4,8 @@
 
 The Auto Nav Bot is a self-navigating robot designed to collect data about its environment using various sensors. It is capable of detecting obstacles, measuring gas levels, temperature, and humidity, and can be controlled remotely via Bluetooth.
 
+Project Document: https://docs.google.com/document/d/1uLjSJZGQdncbeZ4jwbA8o4y43IQFU3PijnEI4YkVqd4/edit?usp=sharing 
+
 ## Features
 
 - Obstacle avoidance using an ultrasonic sensor and servo motor

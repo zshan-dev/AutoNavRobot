@@ -68,10 +68,6 @@ Project Document: https://docs.google.com/document/d/1uLjSJZGQdncbeZ4jwbA8o4y43I
 - Documenting the development process and learnings
 - Troubleshooting and problem-solving skills
 
-## Contributing
-
-Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
 ## Acknowledgments
 
 - [Arduino](https://www.arduino.cc/) for the development platform

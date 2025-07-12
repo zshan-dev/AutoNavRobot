@@ -6,6 +6,10 @@ The Auto Nav Bot is a self-navigating robot designed to collect data about its e
 
 Project Document: https://docs.google.com/document/d/1uLjSJZGQdncbeZ4jwbA8o4y43IQFU3PijnEI4YkVqd4/edit?usp=sharing 
 
+## Schematic Diagram
+
+![Screenshot]<img width="801" height="558" alt="Schematic" src="https://github.com/user-attachments/assets/2b8f8c7b-d128-4acc-aab5-8acaa74c7104" />
+
 ## Features
 
 - Obstacle avoidance using an ultrasonic sensor and servo motor
